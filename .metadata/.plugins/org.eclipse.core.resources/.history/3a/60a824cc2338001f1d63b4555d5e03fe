@@ -1,0 +1,26 @@
+package com.shristi.training;
+
+public class Trial {
+
+	public static void main(String[] args) {
+
+		int a = 100;
+		int b = 200;
+		int c = 900;
+		if (a >= b && a >= c)
+			System.out.println(a);
+		else if (b >= c)
+			System.out.println(b);
+		else
+			System.out.println(c);
+
+//		store the result in a variable  = condt?true execute this:false execute this
+
+		String res = (a > b && a > c) ? "a is greater" : b > c ? "b is greater" : "c is greater";
+		System.out.println(res);
+		System.out.println();
+		int result = (a > b && a > c) ? a : b > c ? b : c;
+		System.out.println(result+ "is greater");
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.shristi.training;
+
+public class Trial {
+
+	public static void main(String[] args) {
+		System.out.print("Hello world");
+		System.out.print("\"welcome to Java\"");
+	}
+
+}

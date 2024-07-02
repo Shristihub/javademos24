@@ -1,0 +1,14 @@
+package com.shristi.training;
+
+public class Trial {
+
+	public static void main(String[] args) {
+		System.out.print("Hello world\n");
+		System.out.print("\"welcome to Java\"");
+		byte x =10,y=20;
+		byte z =(byte)(x+y);
+		System.out.println("\t"+z);
+		
+	}
+
+}
