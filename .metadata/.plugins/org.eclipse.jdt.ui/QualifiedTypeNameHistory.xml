@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.oops.basics.Employee"/>
+    <fullyQualifiedTypeName name="com.oops.overload.VarargsDemo"/>
+    <fullyQualifiedTypeName name="com.shristi.oops.Student"/>
+    <fullyQualifiedTypeName name="com.oops.inherit.InEmployee"/>
+    <fullyQualifiedTypeName name="com.oops.inherit.InManager"/>
+    <fullyQualifiedTypeName name="com.oops.override.MyShape"/>
+    <fullyQualifiedTypeName name="com.oops.override.Square"/>
+    <fullyQualifiedTypeName name="com.oops.override.Triangle"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>
