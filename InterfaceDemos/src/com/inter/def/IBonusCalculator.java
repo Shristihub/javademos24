@@ -11,3 +11,7 @@ public interface IBonusCalculator {
 		System.out.println("Bonus Calculator of employess");
 	}
 }
+
+interface Greeter{
+	String greetMessage(String username);
+}
