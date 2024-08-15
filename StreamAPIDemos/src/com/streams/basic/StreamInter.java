@@ -16,7 +16,7 @@ public class StreamInter {
 //				else
 //					return false;
 //			};
-				
+				   
 		//filter
 		courses.stream()
 		        .filter(str->str.startsWith("K"))
