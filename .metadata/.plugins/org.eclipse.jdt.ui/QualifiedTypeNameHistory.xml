@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.oops.basics.Employee"/>
-    <fullyQualifiedTypeName name="com.oops.overload.VarargsDemo"/>
-    <fullyQualifiedTypeName name="com.shristi.oops.Student"/>
-    <fullyQualifiedTypeName name="com.oops.inherit.InEmployee"/>
-    <fullyQualifiedTypeName name="com.oops.inherit.InManager"/>
-    <fullyQualifiedTypeName name="com.oops.override.MyShape"/>
-    <fullyQualifiedTypeName name="com.oops.override.Square"/>
-    <fullyQualifiedTypeName name="com.oops.override.Triangle"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="com.oops.abs.SubBranch"/>
     <fullyQualifiedTypeName name="com.oops.encap.Employee"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.inter.basics.PaymentGateway"/>
@@ -28,7 +18,6 @@
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.NegativeBalanceException"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.OutOfLimitsException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.CustomBank"/>
     <fullyQualifiedTypeName name="com.voterapp.service.IElectionBoothService"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
@@ -38,4 +27,37 @@
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="com.shristi.io.MyResource"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutput"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="com.shristi.io.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.ListIterator"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="com.shristi.custom.Book"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
+    <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.streams.basic.Employee"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
 </qualifiedTypeNameHistroy>

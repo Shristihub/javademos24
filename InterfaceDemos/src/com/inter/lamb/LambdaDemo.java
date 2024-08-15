@@ -43,7 +43,11 @@ public class LambdaDemo {
 		IPrinter printer = ()->"Have a good day";
 		System.out.println(printer.showMessage());
 		
-		IProduct prod = (x,y)->x*y;
+		IProduct prod = (x,y)->{
+			return x*y;
+		};
+		IProduct prod1 = (x,y)->x*y;
+		
 		System.out.println(prod.multiply(1, 2));
 	}
 
