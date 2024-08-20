@@ -2,8 +2,7 @@ package com.streams.basic;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Function;
-import java.util.function.Predicate;
+import java.util.stream.Stream;
 
 public class StreamInter {
 
@@ -33,14 +32,34 @@ public class StreamInter {
         .forEach(str->System.out.println(str.toUpperCase()));
 		System.out.println();
 		
-		Function<String, Integer> fun = str->str.length();
+//		Function<String, Integer> fun = str->str.length();
 		
 		
 		// map
 		System.out.println("map");
 		courses.stream()
-		.map(str->str.length())  // str converted to integer
+//		.map(str->str.length())  // str converted to integer
+		.map(String::length)
 		.sorted()
-		.forEach(num->System.out.println(num));
+		.forEach(System.out::println);
+		
+		
+		String[] fruits = new String[] {"apple","orange"}; 
+		Stream<String> fruitstream = Arrays.stream(fruits);
+		fruitstream.forEach(str->System.out.println(str.toUpperCase()));
+		
+		//flatMap
+		String[][] names =  new String[][] {{"Jo","Ann","Kathy"},{"Raja","Rani"},{"Tony","Robin"}};
+		//convert to a stream
+		Stream<String[]> namesstream = Arrays.stream(names);
+		// use flatmap to get the array
+		namesstream
+		 .flatMap(onestream-> Arrays.stream(onestream))
+		 .forEach(str->System.out.println(str.toUpperCase()));
+		
+		
+		
+		
+		
 	}
 }
