@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.inter.basics.CardPayment"/>
-    <fullyQualifiedTypeName name="com.inter.basics.CreditPay"/>
-    <fullyQualifiedTypeName name="com.inter.basic.Insurance"/>
-    <fullyQualifiedTypeName name="com.inter.basic.Accessories"/>
-    <fullyQualifiedTypeName name="com.inter.basic.Vehicle"/>
     <fullyQualifiedTypeName name="com.inter.basic.Car"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.NegativeBalanceException"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.OutOfLimitsException"/>
     <fullyQualifiedTypeName name="com.exception.userdefined.CustomBank"/>
@@ -41,14 +35,12 @@
     <fullyQualifiedTypeName name="com.shristi.custom.Book"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="com.streams.basic.Employee"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
@@ -56,8 +48,16 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.util.stream.LongStream"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
     <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="com.inter.methref.InGreeter"/>
+    <fullyQualifiedTypeName name="com.inter.methref.Trial"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="com.productapp.service.IProductService"/>
+    <fullyQualifiedTypeName name="com.productapp.service.ProductServiceImpl"/>
+    <fullyQualifiedTypeName name="com.productapp.util.ProductUtil"/>
 </qualifiedTypeNameHistroy>
